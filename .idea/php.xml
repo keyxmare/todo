@@ -44,11 +44,32 @@
       <path value="$PROJECT_DIR$/backend/vendor/symfony/var-dumper" />
       <path value="$PROJECT_DIR$/backend/vendor/symfony/console" />
       <path value="$PROJECT_DIR$/backend/vendor/symfony/flex" />
+      <path value="$PROJECT_DIR$/backend/vendor/symfony/doctrine-bridge" />
+      <path value="$PROJECT_DIR$/backend/vendor/symfony/polyfill-php84" />
+      <path value="$PROJECT_DIR$/backend/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/backend/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/backend/vendor/doctrine/persistence" />
+      <path value="$PROJECT_DIR$/backend/vendor/doctrine/doctrine-migrations-bundle" />
+      <path value="$PROJECT_DIR$/backend/vendor/doctrine/doctrine-bundle" />
+      <path value="$PROJECT_DIR$/backend/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/backend/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/backend/vendor/doctrine/deprecations" />
+      <path value="$PROJECT_DIR$/backend/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/backend/vendor/doctrine/migrations" />
+      <path value="$PROJECT_DIR$/backend/vendor/doctrine/sql-formatter" />
+      <path value="$PROJECT_DIR$/backend/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/backend/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/backend/vendor/symfony/stopwatch" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="8.2" />
   <component name="PhpStanOptionsConfiguration">
     <option name="transferred" value="true" />
+  </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings custom_loader_path="$PROJECT_DIR$/backend/vendor/autoload.php" />
+    </phpunit_settings>
   </component>
   <component name="PsalmOptionsConfiguration">
     <option name="transferred" value="true" />

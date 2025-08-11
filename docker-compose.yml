@@ -18,6 +18,7 @@ services:
     environment:
       APP_ENV: dev
     restart: unless-stopped
+
   nginx:
     image: nginx:1.27-alpine
     volumes:
